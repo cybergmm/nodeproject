@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/cybergmm/nodeproject#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "socket.io": "^4.4.0"
   }
 }
